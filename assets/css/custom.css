@@ -1,0 +1,10 @@
+.product-img {
+  max-height: 250px;     /* keep images consistent */
+  object-fit: contain;   /* preserve aspect ratio */
+  padding: 10px;         /* space inside card */
+  background-color: #fff; /* clean background */
+  display: block;
+  margin: 0 auto;        /* center the image */
+}/*
+Custom Css
+*/
