@@ -1,6 +1,6 @@
 # Zay Shop
 
-A front-end e-commerce demo built on the free **Zay Shop** HTML/CSS template (TemplateMo), extended with a login page, a working cart and product details in JavaScript.
+A front-end e-commerce demo built on the free Zay Shop HTML/CSS template (TemplateMo), extended with a login page, a working cart and product details in JavaScript.
 
 ## Pages
 
